@@ -1,6 +1,6 @@
 # SiskamllingDigital
 
-**SiskamllingDigital** (Sistem Keamanan Lingkungan Digital) is a comprehensive digital platform designed to enhance neighborhood security. It empowers citizens to report incidents and trigger emergency alerts while providing authorities with real-time tools to manage and respond to security threats effectively.
+**SiskamllingDigital** (Sistem Keamanan Lingkungan Digital) adalah platform digital terintegrasi yang dirancang untuk meningkatkan keamanan lingkungan perumahan. Platform ini memberdayakan warga untuk melaporkan insiden dan memicu peringatan darurat, sekaligus menyediakan alat real-time bagi pihak berwenang untuk mengelola dan merespons ancaman keamanan secara efektif.
 
 ## 🚀 Features
 
